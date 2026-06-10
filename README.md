@@ -11,8 +11,7 @@ npm install
 ## Como rodar
 
 ```powershell
-$env:REACT_NATIVE_PACKAGER_HOSTNAME="SEU_IP"
-npx expo start --clear
+npx expo start
 ```
 
 Escaneie o QR Code com o Expo Go.
