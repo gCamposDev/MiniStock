@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MiniStock",
+    "slug": "ministock2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
